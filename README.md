@@ -7,7 +7,7 @@ Directory structure
 ------------
      
     ├── input
-    │   ├── datasets       <- Datasets used in model
+    │   └─── datasets      <- Datasets used in model
     │
     ├── notebook + model   <- Jupyter notebooks and model used in this competition. 
     │   └─── exploring-machine-learning-algorithms.ipynb     
@@ -26,5 +26,29 @@ This is the first ML model which I created for any problem. I heard a lot  about
 
 ## Approach:
 
+Before solving this problem I tried to get the insights about the dataset(Which is a tradional way to solve any machine learning problem). After that I implemented some machine learning algorithms which is listed below(imported from `scikit-learn` library):
+- Random Forest
+- Decision Tree
+- KNN
+- Logistic Regression
+- Linear SVC
+- Perceptron
+- Support Vector Machine
+- Stochastic Gradient Decent
+- Naive Bayes
+
+## Result/Outcome:
+
+Accuracy of the algorithms is listed below:
+
+- `Random Forest ──  86.76`
+- `Decision Tree ──  86.76`
+- `KNN ──  84.74`
+- `Logistic Regression ──  80.36`
+- `Linear SVC ──  79.12`
+- `Perceptron ──  78.34`
+- `Support Vector Machines ──  78.23`
+- `Stochastic Gradient Decent ──  74.07`
+- `Naive Bayes ──  72.28`
 
 
