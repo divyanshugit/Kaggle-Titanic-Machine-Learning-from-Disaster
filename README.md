@@ -18,7 +18,7 @@ Directory structure
 
 
 ## About:
-A machine learning model that predicts which passengers survived the Titanic shipwreck. This is a knowledge(type) competition on [Kaggle](https://www.kaggle.com/c/titanic).
+A machine learning model that predicts which passengers survived the Titanic shipwreck. This is a getting started prediction competition on [Kaggle](https://www.kaggle.com/c/titanic).
 
 
 ## Motivation/Idea:
